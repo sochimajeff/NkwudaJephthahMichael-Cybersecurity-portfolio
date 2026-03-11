@@ -1,5 +1,5 @@
 # Hello, I'm Nkwuda Jephthah Michael
-<a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="toluikueyemi@gmail.com">
+<a href="https://www.linkedin.com/in/jephthah-nkwuda-b04635294/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvlJP8vETTEasacjYeViWKg%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="toluikueyemi@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0A66C2?&style=for-the-badge&logo=minutemailer&logoColor=white" />
 </a>
 
